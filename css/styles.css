@@ -98,7 +98,6 @@ h3{
 Chover
 .button-text:hover
 .button-text:active{
-    background: #404BBF;
     background-color: #404BBF;   
 }
 .button-text:focus{
@@ -143,9 +142,20 @@ Chover
     letter-spacing: 0.72px;
     text-transform: capitalize;
     color:  #2e2f42;
+    line-height: 1.11
+
 } 
 .tim-info{
     background-color: #FFFFFF;
+}
+.imgn-title{
+    line-height:1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    font-size: 20px;
+    font-weight: 500
+    
+    
 }
 .down-block{
    background-color: #2e2f42;
