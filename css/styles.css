@@ -1,6 +1,6 @@
 body{
     font-family: "Roboto", sans-serif;
-    color: #2E2F42;
+    color: #434455;
     background-color: #ffff;
 }
 a{
@@ -18,16 +18,22 @@ h3{
 }
 .logo{
     color: #4D5AE5;
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
     line-height: 21px;
     letter-spacing: 0.54px;
     text-transform: uppercase;
+    line-height: 1.17;
+    letter-spacing: 0.02em
 }
 .logo-part{
     color: #2E2F42;
+}
+.logo:hover
+.logo:focus{
+    color: #404bbf;
 }
 .header-nav{
     color: #2E2F42;
@@ -40,6 +46,9 @@ h3{
 .header-nav:hover
 .header-nav:active{
     color: #404BBF;
+}
+.adress-titlte{
+    font-style: normal;
 }
 .adress-link{
     color: #2E2F42;
@@ -85,7 +94,7 @@ h3{
 }
 .footer-logo{
     color: #4D5AE5;
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -93,10 +102,16 @@ h3{
     letter-spacing: 0.54px;
     text-transform: uppercase; 
     background-color: #2E2F42;
+    line-height: 1.17;
+    letter-spacing: 0.02em
 }
 .footer-logo-part{
     color: #F4F4FD;
     background-color: #2E2F42;
+}
+.footer-logo:hover
+.footer-logo:focus{
+    color: #404bbf;
 }
 .futer-text-section{
   color: #F4F4FD;
