@@ -56,7 +56,7 @@ h3{
     color: #434455; 
 }
 .adress-link{
-    color: #2E2F42;
+    color: #434455;
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
@@ -96,6 +96,7 @@ h3{
     font-family: "Roboto", sans-serif;
 }
 Chover
+.button-text:hover
 .button-text:active{
     background: #404BBF;
     background-color: #404BBF;   
@@ -110,11 +111,30 @@ Chover
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+
 .text-section{
     color: #434455;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.32px;
+}
+.tim-box{
+    background-color: #F4F4FD;
+}
+.time-title{
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px; /* 111.111% */
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+}
+.tim-name{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px; 
+    letter-spacing: 0.4px;
+    color: #2E2F42;
 }
 .title-portfolio{
     font-size: 36px;
@@ -124,6 +144,9 @@ Chover
     text-transform: capitalize;
     color:  #2e2f42;
 } 
+.tim-info{
+    background-color: #FFFFFF;
+}
 .down-block{
    background-color: #2e2f42;
 }  
