@@ -1,0 +1,108 @@
+body{
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42;
+    background-color: #ffff;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+h1,
+h2{
+    text-align: center;
+}
+h3{
+    font-size: 20;
+}
+.logo{
+    color: #4D5AE5;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+.logo-part{
+    color: #2E2F42;
+}
+.header-nav{
+    color: #2E2F42;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; 
+}
+.header-nav:hover
+.header-nav:active{
+    color: #404BBF;
+}
+.adress-link{
+    color: #2E2F42;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; 
+    letter-spacing: 0.32px; 
+}
+.adress-link:hover
+.adress-link:active{
+    color: #404BBF;
+}
+.page-title{
+    color: #FFF;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px; 
+    letter-spacing: 1.12px;
+    background: #2E2F42;
+}
+.button-text{
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.64px;
+    background-color: #4D5AE5;
+    cursor: pointer;
+}
+.button-text:hover
+.button-text:active{
+    background: #404BBF;   
+}
+.text-section{
+    color: #434455;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+.footer-logo{
+    color: #4D5AE5;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    text-transform: uppercase; 
+    background-color: #2E2F42;
+}
+.footer-logo-part{
+    color: #F4F4FD;
+    background-color: #2E2F42;
+}
+.futer-text-section{
+  color: #F4F4FD;
+ font-family: Roboto;
+ font-size: 16px;
+ line-height: 24px;
+ letter-spacing: 0.32px;
+ background-color: #2E2F42;
+}
