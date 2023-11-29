@@ -99,24 +99,23 @@ h3{
     cursor: pointer;
     font-family: "Roboto", sans-serif;
 }
-Chover
 .button-text:hover
 .button-text:active{
-    background-color: #404BBF;   
+    background-color:#404BBF;   
 }
 .button-text:focus{
-    background-color: #404BBF;
+    background-color:#404BBF;
 }
 .text-title{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color:#2e2f42;
 }
 
 .text-section{
-    color: #434455;
+    color:#434455;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.32px;
