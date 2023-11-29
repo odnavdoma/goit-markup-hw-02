@@ -34,7 +34,9 @@ h3{
 .logo-part:hover{
     color: #404bbf;
 }
-.logo:hover
+.logo:hover{
+    color: #404bbf;
+}
 .logo:focus{
     color: #404bbf;
     
