@@ -54,12 +54,10 @@ h3{
   letter-spacing: 0.02em;
 }
 .header-nav:hover
-.header-nav:active{
-    color: #404bbf;
-}
 .header-nav:focus{
     color: #404bbf;
 }
+
 .adress-titlte{
     font-style: normal;
     color: #434455; 
