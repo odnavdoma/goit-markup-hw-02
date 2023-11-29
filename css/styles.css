@@ -17,7 +17,7 @@ h3{
     font-size: 20;
 }
 .header:hover{
-    color: #404bbf:
+    color: #404bbf;
 }
 .logo{
     color: #4D5AE5;
@@ -107,8 +107,7 @@ h3{
     cursor: pointer;
     font-family: "Roboto", sans-serif;
 }
-.button-text:hover
-.button-text:active{
+.button-text:hover{
     background-color:#404BBF;   
 }
 .button-text:focus{
