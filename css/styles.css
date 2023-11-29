@@ -16,6 +16,9 @@ h2{
 h3{
     font-size: 20;
 }
+.header:hover{
+    color: #404bbf:
+}
 .logo{
     color: #4D5AE5;
     font-family: "Raleway", sans-serif;
@@ -60,6 +63,9 @@ h3{
 .adress-titlte{
     font-style: normal;
     color: #434455; 
+}
+.adress-titlte:hover{
+    color: #404bbf;
 }
 .adress-link{
     color: #434455;
