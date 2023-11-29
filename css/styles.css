@@ -53,7 +53,7 @@ h3{
   line-height: 24px;
   letter-spacing: 0.02em;
 }
-.header-nav:hover
+.header-nav:hover,
 .header-nav:active{
     color:#404bbf;
 }
@@ -76,7 +76,7 @@ h3{
     line-height: 24px; 
     letter-spacing: 0.32px; 
 }
-.adress-link:hover
+.adress-link:hover,
 .adress-link:active{
     color: #404bbf;
 }
